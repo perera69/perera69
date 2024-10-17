@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharidu Perera</h1>
 <h3 align="center">🌟 Intern Frontend Developer | Continuous Learner of New Tools & Technologies | Sri Lanka 🇱🇰 🌟</h3>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp0aGRibnVjYmVuY2dyNjI4dDVjcTV2cW11dTR0Mmx3bWRwNzE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" align="center" alt="Herologo"/>
+<a href="https://app.daily.dev/thariduperera"><img src="https://api.daily.dev/devcards/v2/HChZzwY1XkIYv6sxhjH6o.png?type=wide&r=3je" width="652" alt="Tharidu Perera's Dev Card"/></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perera69" alt="perera69" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs,React,tailwindcss**
@@ -8,7 +9,6 @@
 - 💬 Ask me about **React and Nextjs**
 
 - 📫 How to reach me **tharinduanjanaofficial@gmail.com**
-<a href="https://app.daily.dev/thariduperera"><img src="https://api.daily.dev/devcards/v2/HChZzwY1XkIYv6sxhjH6o.png?type=wide&r=3je" width="652" alt="Tharidu Perera's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tharinduanjana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharinduanjana1" height="30" width="40" /></a>
