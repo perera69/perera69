@@ -8,7 +8,7 @@
 - 💬 Ask me about **React and Nextjs**
 
 - 📫 How to reach me **tharinduanjanaofficial@gmail.com**
-
+<a href="https://app.daily.dev/thariduperera"><img src="https://api.daily.dev/devcards/v2/HChZzwY1XkIYv6sxhjH6o.png?type=wide&r=3je" width="652" alt="Tharidu Perera's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tharinduanjana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharinduanjana1" height="30" width="40" /></a>
