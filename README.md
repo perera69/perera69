@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharidu Perera</h1>
 <h3 align="center">🌟 Intern Frontend Developer | Continuous Learner of New Tools & Technologies | Sri Lanka 🇱🇰 🌟</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenp0aGRibnVjYmVuY2dyNjI4dDVjcTV2cW11dTR0Mmx3bWRwNzE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Herologo" width="400" style="max-width: 100%; height: auto;"/>
+  <img src="https://i.pinimg.com/originals/64/f1/67/64f167c9e2110e7eff1d51aad01c879d.gif" alt="Herologo" width="400" style="max-width: 100%; height: auto;"/>
   <a href="https://app.daily.dev/thariduperera"><img src="./devcard.png" width="300" alt="Tharidu Perera's Dev Card"/></a>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perera69" alt="perera69" /></a> </p>
