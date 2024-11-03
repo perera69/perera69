@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharidu Perera</h1>
 <h3 align="center">🌟 Intern Frontend Developer | Continuous Learner of New Tools & Technologies | Sri Lanka 🇱🇰 🌟</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: between; align-items: center; gap: 20px;">
-  <a href="https://app.daily.dev/thariduperera"><img src="./devcard.png" width="300" alt="Tharidu Perera's Dev Card"/></a>
-</div>
-
 💫 About Me:
 🔭 Currently working as Frontend Engineer Intern at Nanosoft Global (Pvt) Ltd<br>🌱 Building with: ReactJS,NextJS<br>👀 Looking for new opportunities in frontend development<br>⚡ Fun fact: Turning coffee into code while learning new tech every day!
 
@@ -15,3 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=perera69&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perera69&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: between; align-items: center; gap: 20px;">
+  <a href="https://app.daily.dev/thariduperera"><img src="./devcard.png" width="300" alt="Tharidu Perera's Dev Card"/></a>
+</div>
+
