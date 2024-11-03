@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharidu Perera</h1>
 <h3 align="center">🌟 Intern Frontend Developer | Continuous Learner of New Tools & Technologies | Sri Lanka 🇱🇰 🌟</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://c.tenor.com/0bAY5Cqa3IMAAAAC/tenor.gif" alt="Herologo" width="400" style="max-width: 100%; height: auto;"/>
   <a href="https://app.daily.dev/thariduperera"><img src="./devcard.png" width="300" alt="Tharidu Perera's Dev Card"/></a>
 </div>
 
