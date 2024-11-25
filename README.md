@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tharidu Perera</h1>
 <h3 align="center">🌟 Intern Frontend Developer | Continuous Learner of New Tools & Technologies | Sri Lanka 🇱🇰 🌟</h3>
 💫 About Me:
-🔭 Currently working as Frontend Engineer Intern at Nanosoft Global (Pvt) Ltd<br>🌱 Building with: ReactJS,NextJS<br>👀 Looking for new opportunities in frontend development
+🔭 Currently working as Frontend Engineer Intern at Nanosoft Global (Pvt) Ltd<br>🌱 Building with: ReactJS,NextJS<br>👀 Looking for new opportunities in frontend development<br>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100081484301985) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharidu-perera-858881284/) 
 
@@ -13,4 +14,3 @@
 <div style="display: flex;  justify-content: between; align-items: center; gap: 20px;">
   <a href="https://app.daily.dev/thariduperera"><img src="./devcard.png" width="300" alt="Tharidu Perera's Dev Card"/></a>
 </div>
-
