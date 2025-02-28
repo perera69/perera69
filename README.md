@@ -13,4 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=perera69&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <div style="display: flex;  justify-content: between; align-items: center; gap: 20px;">
   <a href="https://app.daily.dev/thariduperera"><img src="./devcard.png" width="300" alt="Tharidu Perera's Dev Card"/></a>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a8b483a7-5e50-462a-aa9d-9a745097fc89" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
