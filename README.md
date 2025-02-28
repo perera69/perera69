@@ -16,7 +16,5 @@
 
 <div style="display: flex; justify-content: between; align-items: center; gap: 20px;">
   <a href="https://app.daily.dev/thariduperera"><img src="./devcard.png" width="300" alt="Tharidu Perera's Dev Card"/></a>
-  <a href="https://www.credly.com/badges/a8b483a7-5e50-462a-aa9d-9a745097fc89/public_url">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Cloud Practitioner" />
-</a>
+[![My Credly Badge](https://path-to-image/badge-image.png)](https://www.credly.com/badges/a8b483a7-5e50-462a-aa9d-9a745097fc89)
 </div>
